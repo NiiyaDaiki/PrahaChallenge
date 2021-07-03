@@ -1,1 +1,1 @@
-# PrahaChallenge
+# プラハチャレンジ用プロジェクト
